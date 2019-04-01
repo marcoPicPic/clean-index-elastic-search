@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "map",
+            "nativeLanguage": "fr"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "cleanIndexElasticSearch",
+        "packageName": "map",
+        "packageFolder": "map",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "OTE2NjJhODhiZmRiYjczNGU2Yjg4MTJlYmUzYmJhY2YzZWUwYmU1YmI4ZDc3MWFiYjZhNjQ1YzE4MzUzOGQ1NTIwMjllOWY3NzYwMTk3NDMzZjkxYWEwOTQxMjM5ZGZkY2RjN2UwOTMwYTQ3ZGI4YWE5ODE1NjY4YTQ5ZjY5Yjg=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "fr",
+        "languages": ["fr"]
+    }
+}
